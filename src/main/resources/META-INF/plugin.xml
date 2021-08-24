@@ -1,0 +1,23 @@
+<idea-plugin>
+    <id>org.example.spearmint_theme</id>
+    <name>Spearmint</name>
+    <vendor>email="rustamch@cs.students.ubc.ca"</vendor>
+
+
+    <description><![CDATA[
+        <p>Spearmint <i>theme</i> and <i>color scheme</i> for IntelliJ®</p>
+        <br/>
+        Minimalist intellij theme.</a>.
+        ]]></description>
+    <!-- please see https://plugins.jetbrains.com/docs/intellij/plugin-compatibility.html
+         on how to target different products -->
+    <depends>com.intellij.modules.platform</depends>
+
+    <extensions defaultExtensionNs="com.intellij">
+        <themeProvider id="6ca99b7d-0b82-4954-bf0e-508a818bb52c" path="/META-INF/Spearmint.theme.json"/>
+    </extensions>
+
+    <actions>
+        <!-- Add your actions here -->
+    </actions>
+</idea-plugin>

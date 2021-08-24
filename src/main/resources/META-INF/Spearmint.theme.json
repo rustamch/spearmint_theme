@@ -1,0 +1,12 @@
+{
+  "name": "Spearmint",
+  "dark": true,
+  "author": "Rus",
+  "editorScheme": "META-INF/Spearmint.xml",
+  "ui": {
+    "*": {
+      "background": "#1d212f",
+      "foreground": "#a6accd"
+    }
+  }
+}
