@@ -2,7 +2,7 @@
   <colors>
     <option name="CARET_COLOR" value="27e8a7" />
     <option name="CARET_ROW_COLOR" value="1b1d2a" />
-    <option name="CONSOLE_BACKGROUND_KEY" value="242938" />
+    <option name="CONSOLE_BACKGROUND_KEY" value="1e2536" />
     <option name="FILESTATUS_ADDED" value="c3e887" />
     <option name="FILESTATUS_DELETED" value="f77669" />
     <option name="FILESTATUS_HIJACKED" value="ffcb6b" />
@@ -17,15 +17,17 @@
     <option name="FILESTATUS_SUPPRESSED" value="546e7a" />
     <option name="FILESTATUS_SWITCHED" value="f77669" />
     <option name="FILESTATUS_UNKNOWN" value="f77669" />
-    <option name="FOLDED_TEXT_BORDER_COLOR" value="242938" />
-    <option name="GUTTER_BACKGROUND" value="242938" />
+    <option name="FOLDED_TEXT_BORDER_COLOR" value="32ea85" />
+    <option name="GUTTER_BACKGROUND" value="1e2536" />
     <option name="INLINE_REFACTORING_SETTINGS_DEFAULT" value="" />
     <option name="INLINE_REFACTORING_SETTINGS_FOCUSED" value="" />
-    <option name="SELECTED_TEARLINE_COLOR" value="506477" />
+    <option name="LINE_NUMBERS_COLOR" value="add7ff" />
+    <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="27e8a7" />
+    <option name="SELECTED_TEARLINE_COLOR" value="1e2536" />
     <option name="SELECTION_BACKGROUND" value="32394c" />
     <option name="SEPARATOR_BELOW_COLOR" value="242938" />
     <option name="ScrollBar.Mac.thumbColor" value="242938" />
-    <option name="TEARLINE_COLOR" value="506477" />
+    <option name="TEARLINE_COLOR" value="1e2536" />
   </colors>
   <attributes>
     <option name="ANNOTATION_NAME_ATTRIBUTES" baseAttributes="DEFAULT_METADATA" />
@@ -70,15 +72,15 @@
     </option>
     <option name="DEFAULT_DOC_COMMENT_TAG">
       <value>
-        <option name="FOREGROUND" value="27e8a7" />
+        <option name="FOREGROUND" value="4cffb6" />
         <option name="FONT_TYPE" value="3" />
-        <option name="EFFECT_COLOR" value="629755" />
+        <option name="EFFECT_COLOR" value="4cffb6" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
     <option name="DEFAULT_DOC_COMMENT_TAG_VALUE">
       <value>
-        <option name="FOREGROUND" value="27e8a7" />
+        <option name="FOREGROUND" value="4cffb6" />
       </value>
     </option>
     <option name="DEFAULT_FUNCTION_CALL">
@@ -93,7 +95,7 @@
     </option>
     <option name="DEFAULT_IDENTIFIER">
       <value>
-        <option name="FOREGROUND" value="31de87" />
+        <option name="FOREGROUND" value="21d78e" />
       </value>
     </option>
     <option name="DEFAULT_INSTANCE_FIELD">
@@ -110,22 +112,24 @@
     </option>
     <option name="DEFAULT_KEYWORD">
       <value>
-        <option name="FOREGROUND" value="91b6d2" />
+        <option name="FOREGROUND" value="199565" />
       </value>
     </option>
     <option name="DEFAULT_LOCAL_VARIABLE">
       <value>
-        <option name="FOREGROUND" value="add7ff" />
+        <option name="FOREGROUND" value="a2d0ff" />
       </value>
     </option>
     <option name="DEFAULT_METADATA">
       <value>
-        <option name="FOREGROUND" value="32ae85" />
+        <option name="FOREGROUND" value="4cffb6" />
+        <option name="BACKGROUND" value="212839" />
+        <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
     <option name="DEFAULT_PARAMETER">
       <value>
-        <option name="FOREGROUND" value="25ffa4" />
+        <option name="FOREGROUND" value="4cffb6" />
       </value>
     </option>
     <option name="DEFAULT_PARENTHS">
@@ -135,7 +139,7 @@
     </option>
     <option name="DEFAULT_SEMICOLON">
       <value>
-        <option name="FOREGROUND" value="34d78e" />
+        <option name="FOREGROUND" value="7390aa" />
       </value>
     </option>
     <option name="DEFAULT_STATIC_FIELD">
@@ -187,7 +191,7 @@
     </option>
     <option name="INLAY_DEFAULT">
       <value>
-        <option name="FOREGROUND" value="1d212f" />
+        <option name="FOREGROUND" value="27e8a7" />
       </value>
     </option>
     <option name="INLAY_TEXT_WITHOUT_BACKGROUND">
@@ -231,6 +235,12 @@
         <option name="FOREGROUND" value="add7ff" />
       </value>
     </option>
+    <option name="LIVE_TEMPLATE_ATTRIBUTES">
+      <value>
+        <option name="FOREGROUND" value="32ea85" />
+        <option name="EFFECT_COLOR" value="80bfff" />
+      </value>
+    </option>
     <option name="LIVE_TEMPLATE_INACTIVE_SEGMENT">
       <value>
         <option name="EFFECT_COLOR" value="242938" />
@@ -247,8 +257,8 @@
     </option>
     <option name="TEXT">
       <value>
-        <option name="FOREGROUND" value="a9b7c6" />
-        <option name="BACKGROUND" value="212839" />
+        <option name="FOREGROUND" value="add7ff" />
+        <option name="BACKGROUND" value="1e2536" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
@@ -261,9 +271,10 @@
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
-    <option name="TYPE_PARAMETER_NAME_ATTRIBUTES">
+    <option name="TYPE_PARAMETER_NAME_ATTRIBUTES" baseAttributes="DEFAULT_PARAMETER" />
+    <option name="UNMATCHED_BRACE_ATTRIBUTES">
       <value>
-        <option name="FOREGROUND" value="32ae85" />
+        <option name="FOREGROUND" value="df4576" />
       </value>
     </option>
     <option name="WRITE_IDENTIFIER_UNDER_CARET_ATTRIBUTES">
@@ -278,7 +289,7 @@
     </option>
   </attributes>
   <option name="FONT_SCALE" value="1.0" />
-  <option name="LINE_SPACING" value="1.1" />
+  <option name="LINE_SPACING" value="1.3" />
   <option name="EDITOR_FONT_SIZE" value="16" />
   <option name="EDITOR_FONT_NAME" value="Fira Code" />
   <option name="EDITOR_LIGATURES" value="true" />

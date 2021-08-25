@@ -1,13 +1,13 @@
 <idea-plugin>
     <id>org.example.spearmint_theme</id>
     <name>Spearmint</name>
-    <vendor>email="rustamch@cs.students.ubc.ca"</vendor>
+    <vendor url="https://github.com/rustamch-rn/spearmint_theme">Rustam Nassyrov</vendor>
 
 
     <description><![CDATA[
         <p>Spearmint <i>theme</i> and <i>color scheme</i> for IntelliJ®</p>
         <br/>
-        Minimalist intellij theme.</a>.
+        Minimalist intelliJ theme.</a>.
         ]]></description>
     <!-- please see https://plugins.jetbrains.com/docs/intellij/plugin-compatibility.html
          on how to target different products -->
